@@ -1,0 +1,38 @@
+<!DOCTYPE>
+<html>
+<head>
+  <title>Registration</title>
+</head>
+<body>
+  <h1>Register</h1>
+  <form action="https://www.google.com" method="get">
+    <div>
+      <label for="Firstname"> Firstname:</label>
+      <input id="Firstname" name="Firstname" type="text" required>
+      <label for="Lastname">Lastname: </label>
+      <input id="Lastname" name="Lastname" type="text" required>
+    </div>
+    <div>
+      <label for="maleradio">Male: </label>
+      <input id="maleradio"name="genderradio" type="radio" value="male" required>
+      <label for="femaleradio">Female: </label>
+      <input id="femaleradio"name="genderradio" type="radio" value="female" required>
+      <label for="otherradio">Other: </label>
+      <input id="otherradio"name="genderradio" type="radio" value="other" required>
+    </div>
+    <div>
+      <label for="email">Email: </label>
+      <input id="email" type="email" required>
+      <label for="password">Password: </label>
+      <input id="password" type="password" minlength="8" maxlength="10" required>
+    </div>
+    <div>
+      <label for="date">Birthday: </label>
+      <input type="date" name="date">
+    </div>
+    <div>
+      <label for="agree">I agree with the terms and conditions </label>
+      <input type="checkbox" name="agree" required>
+    </div>
+    <input type="submit">
+  </form>
