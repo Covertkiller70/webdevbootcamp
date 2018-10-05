@@ -1,0 +1,17 @@
+img{
+  width: 400px;
+  height: 400px;
+  float: left;
+  margin: 0.8%;
+  border: solid blue 5px;
+}
+
+body{
+  margin: 5%;
+}
+
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 48pt;
+  border-bottom: solid black 5px;
+}

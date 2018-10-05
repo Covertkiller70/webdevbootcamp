@@ -1,0 +1,35 @@
+body{
+  background-color: #dce6f7;
+  max-width: 700px;
+  width: 80%;
+  margin: 0 auto;
+}
+h1{
+  text-align: center;
+  border-bottom: solid #a0beef 5px;
+  font-family: 'K2D', sans-serif;
+}
+h3{
+  font-size: 20pt;
+  font-family: 'Roboto', sans-serif;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+}
+.date{
+  text-transform: uppercase;
+  color: #134aa5;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+.quote{
+  border-left: solid 5px #a0beef;
+  padding-left: 2px;
+}
+.main{
+  padding: 10px;
+  border: solid #4f86e2 15px;
+}
+.post{
+  border-bottom: solid #95b3e5 3px;
+}
