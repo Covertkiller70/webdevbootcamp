@@ -1,0 +1,25 @@
+h1{
+  text-align: center;
+}
+
+table{
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+td{
+  padding: 50px;
+}
+tr:nth-of-type(1) td{
+  border-bottom: black solid medium;
+}
+tr:nth-of-type(2) td{
+  border-bottom: black solid medium;
+}
+td:nth-of-type(1){
+  border-right: black solid medium;
+}
+td:nth-child(3){
+  border-left: black solid medium;
+}
