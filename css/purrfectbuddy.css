@@ -1,0 +1,29 @@
+#content {
+  text-align: center;
+  padding-top: 20%;
+  text-shadow: 0px 4px 3px black;
+}
+
+.btn {
+  background-color: #1e86db;
+}
+
+html {
+  height: 100%
+}
+
+h1 {
+  font-weight: 700px;
+  font-size: 5em;
+}
+
+hr {
+  width: 600px;
+  border-top: 2px white solid;
+}
+
+body {
+  background-image: url("https://hdqwalls.com/download/girl-playing-with-cat-4k-au-3840x2400.jpg");
+  background-size: cover;
+  color: white;
+}

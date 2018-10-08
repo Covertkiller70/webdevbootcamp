@@ -7,14 +7,13 @@ body{
 h1{
   text-align: center;
   border-bottom: solid #a0beef 5px;
-  font-family: 'K2D', sans-serif;
 }
 h3{
   font-size: 20pt;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Charmonman', cursive;
 }
 p{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Charmonman', cursive;
 }
 .date{
   text-transform: uppercase;
