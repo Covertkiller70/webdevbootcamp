@@ -3,15 +3,17 @@ img{
   height: 400px;
   float: left;
   margin: 0.8%;
-  border: solid blue 5px;
+  border: solid #68cc6e 5px;
 }
 
 body{
   margin: 5%;
+  background-image: url(https://storywarren.com/wp-content/uploads/2016/09/space-1.jpg);
 }
 
 h1{
   font-family: 'Roboto', sans-serif;
   font-size: 48pt;
-  border-bottom: solid black 5px;
+  color: white;
+  border-bottom: solid white 5px;
 }
